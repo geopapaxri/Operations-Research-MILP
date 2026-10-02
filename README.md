@@ -16,7 +16,7 @@ Objective: Minimize the total cost of unsatisfied demand, repair operations, and
 Constraints Handled: Flow conservation, physical and temporary link capacities, repair crew scheduling (avoiding overlapping tasks), and time-dependent link availability based on repair completion.
 Output: Optimal flow routing for critical nodes and an efficient repair schedule over a multi-period time horizon.
 
-Technologies Used
+Technologies Used:
 a) Python
 b) PuLP (Linear Programming API)
 c) Jupyter Notebook
