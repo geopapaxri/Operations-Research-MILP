@@ -17,8 +17,6 @@ Constraints Handled: Flow conservation, physical and temporary link capacities, 
 Output: Optimal flow routing for critical nodes and an efficient repair schedule over a multi-period time horizon.
 
 Technologies Used
-Python
-
-PuLP (Linear Programming API)
-
-Jupyter Notebook
+a) Python
+b) PuLP (Linear Programming API)
+c) Jupyter Notebook
